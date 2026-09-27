@@ -1,0 +1,13 @@
+case,node,node_type,path,contribution,provenance
+Breast Neoplasms,hsa-miR-21-5p,miRNA,query,0.704,query
+Breast Neoplasms,PTEN,gene,1,0.184,miRTarBase
+Breast Neoplasms,PI3K-Akt,process,1,0.241,Reactome
+Breast Neoplasms,PDCD4,gene,2,0.156,miRTarBase
+Breast Neoplasms,Apoptosis,process,2,0.219,Reactome
+Breast Neoplasms,Breast Neoplasms,disease,target,0.682,CTD/DisGeNET
+Alzheimer's Disease,hsa-miR-146a-5p,miRNA,query,0.688,query
+Alzheimer's Disease,IRAK1,gene,1,0.173,miRTarBase
+Alzheimer's Disease,NF-kB signaling,process,1,0.252,Reactome
+Alzheimer's Disease,TRAF6,gene,2,0.149,miRTarBase
+Alzheimer's Disease,Neuroinflammation,process,2,0.236,Reactome
+Alzheimer's Disease,Alzheimer's Disease,disease,target,0.671,CTD/DisGeNET

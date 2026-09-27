@@ -1,0 +1,21 @@
+disease,mirna,case_1,case_2,case_3,control_1,control_2,control_3
+Breast Neoplasms,hsa-miR-21-5p,1.72,1.38,1.55,-1.08,-0.92,-1.21
+Breast Neoplasms,hsa-miR-155-5p,1.31,1.08,1.44,-0.86,-0.71,-1.02
+Breast Neoplasms,hsa-miR-10b-5p,0.96,1.27,1.08,-0.58,-0.83,-0.69
+Breast Neoplasms,hsa-miR-200c-3p,-1.16,-0.88,-1.02,0.91,1.14,0.77
+Breast Neoplasms,hsa-miR-34a-5p,0.82,0.54,0.71,-0.48,-0.66,-0.38
+Breast Neoplasms,hsa-miR-145-5p,-1.33,-1.08,-1.24,0.84,1.02,1.17
+Breast Neoplasms,hsa-miR-221-3p,1.02,0.87,1.19,-0.79,-0.62,-0.73
+Breast Neoplasms,hsa-miR-210-3p,0.74,1.05,0.91,-0.67,-0.51,-0.82
+Breast Neoplasms,hsa-miR-125b-5p,-0.92,-1.12,-0.76,0.69,0.88,1.03
+Breast Neoplasms,hsa-miR-31-5p,-0.73,-0.55,-0.89,0.52,0.71,0.64
+Alzheimer's Disease,hsa-miR-146a-5p,1.61,1.29,1.47,-1.12,-0.83,-1.03
+Alzheimer's Disease,hsa-miR-29a-3p,0.93,1.12,0.78,-0.69,-0.82,-0.55
+Alzheimer's Disease,hsa-miR-34a-5p,1.18,0.96,1.27,-0.74,-0.91,-0.80
+Alzheimer's Disease,hsa-miR-132-3p,-1.36,-1.08,-1.21,0.98,0.81,1.12
+Alzheimer's Disease,hsa-miR-107,-1.11,-0.87,-1.02,0.76,0.94,0.83
+Alzheimer's Disease,hsa-miR-9-5p,-0.82,-1.05,-0.91,0.58,0.73,0.88
+Alzheimer's Disease,hsa-miR-181c-5p,0.71,0.94,0.82,-0.63,-0.48,-0.72
+Alzheimer's Disease,hsa-miR-125b-5p,1.04,0.89,1.13,-0.84,-0.66,-0.77
+Alzheimer's Disease,hsa-miR-15a-5p,0.62,0.79,0.54,-0.47,-0.59,-0.38
+Alzheimer's Disease,hsa-miR-124-3p,-1.24,-0.96,-1.15,0.86,1.08,0.92
