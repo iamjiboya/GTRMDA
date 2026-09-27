@@ -1,0 +1,19 @@
+id,type,name
+mir:21,miRNA,hsa-miR-21
+mir:146,miRNA,hsa-miR-146
+mir:155,miRNA,hsa-miR-155
+mir:34,miRNA,hsa-miR-34
+dis:1,disease,Breast Neoplasms
+dis:2,disease,Alzheimer's Disease
+dis:3,disease,Lung Neoplasms
+dis:4,disease,Parkinson's Disease
+gene:PTEN,gene,PTEN
+gene:PDCD4,gene,PDCD4
+gene:IRAK1,gene,IRAK1
+gene:TRAF6,gene,TRAF6
+gene:TP53,gene,TP53
+gene:AKT1,gene,AKT1
+path:1,pathway,PI3K-Akt
+path:2,pathway,Apoptosis
+path:3,pathway,NF-kB
+path:4,pathway,Neuroinflammation

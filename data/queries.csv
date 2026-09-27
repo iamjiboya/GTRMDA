@@ -1,0 +1,7 @@
+mirna,disease,label,year
+mir:21,dis:1,1,2019
+mir:146,dis:2,1,2020
+mir:155,dis:3,1,2020
+mir:34,dis:4,1,2021
+mir:21,dis:4,0,2021
+mir:146,dis:3,0,2021

@@ -1,0 +1,6 @@
+id,head_type,tail_type,description
+miRNA_gene,miRNA,gene,a microRNA targets a gene
+gene_pathway,gene,pathway,a gene participates in a pathway
+gene_disease,gene,disease,a gene is implicated in a disease
+pathway_disease,pathway,disease,a pathway participates in a disease
+MDA,miRNA,disease,a microRNA is experimentally associated with a disease

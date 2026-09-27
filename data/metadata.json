@@ -1,0 +1,7 @@
+{
+  "entity_feature_source": "seeded random smoke-test vectors",
+  "name": "GTRMDA toy graph",
+  "relation_feature_source": "seeded random smoke-test vectors",
+  "synthetic": true,
+  "target_relation": "MDA"
+}
