@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the GTRMDA paper."
+title: "GTRMDA"
+type: software
+version: 0.1.0
+date-released: 2026-07-23
+authors:
+  - name: "Anonymous AAAI submission"
+repository-code: "https://github.com/iamjiboya/GTRMDA"
+license: MIT
