@@ -32,7 +32,7 @@ The implementation follows the paper's four stages:
 ## Repository layout
 
 ```text
-aaai2026code/
+code/
 ├── configs/                 # Paper and toy hyperparameters
 ├── data/
 │   ├── raw/                 # User-downloaded source databases (gitignored)
@@ -230,15 +230,6 @@ and high-resolution raster files.
 
 ## Citation
 
-```bibtex
-@inproceedings{gtrmda2026,
-  title     = {Graph In-Context Reasoning with Test-Time Verification for
-               Relation-Level Zero-Shot miRNA--Disease Association Prediction},
-  author    = {Anonymous},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year      = {2026}
-}
-```
 
 Update the citation and repository URL after the anonymous review period.
 
